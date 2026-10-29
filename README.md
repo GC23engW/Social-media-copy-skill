@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="assets/studio-logo.png" width="104" alt="偏序工作室标识">
-</p>
-<p align="center">
-  <img src="assets/studio-wordmark.png" width="169" alt="偏序工作室">
-</p>
 
 # 社媒带货文案 Skill · 展示版
 
